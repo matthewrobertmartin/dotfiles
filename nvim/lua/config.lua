@@ -1,0 +1,6 @@
+require("config/remap")
+require("config/colours")
+require("config/treesitter")
+require("config/telescope")
+require("config/trouble")
+require("config/lspconfig")
